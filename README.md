@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Nina
+
+👀 I’m interested in Web Design and Development, Game Development
+🌱 I’m currently learning Full Stack Developoment at Code Nation
+💞️ I’m looking to collaborate on website projects
+📫 How to reach me: ninaangela.espiritu@gmail.com
 
 <!--
 **ninaespiritu/ninaespiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
