@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in **Software Development**
 - 🖥️ My most recent project: [Coffee Is Life: a full-stack MERN application](https://coffeeislife.netlify.app/ "Coffee Is Life")
-- 🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp
-- 🌱 I’m currently learning MySQL and PHP
+- 🎓 I'm a graduate of Code Nation's Master: Coding Bootcamp
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 
