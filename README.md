@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Nina
 
-- 👀 I’m interested in **Software Development**
-- 🖥️ My most recent project: [Coffee Is Life: a full-stack MERN application](https://coffeeislife.netlify.app/ "Coffee Is Life")
+- 💞️ I’m interested in **Software Development** and **UX/UI Design**
+- 👀 My most recent project: [Coffee Is Life: a full-stack MERN application](https://coffeeislife.netlify.app/ "Coffee Is Life")
 - 🎓 I'm a graduate of Code Nation's Master: Coding Bootcamp
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on web development projects
+- ☕ I’m a coffee lover
 - 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 
 
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-0C1116?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/Photoshop-0C1116?logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop logo" title="Photoshop" height="25" />
   <img src="https://img.shields.io/badge/Illustrator-0C1116?logo=adobeillustrator&logoColor=FE9B00" alt="Illustrator logo" title="Illustrator" height="25" />
+  <img src="https://img.shields.io/badge/Premiere Pro-0C1116?logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
   <img src="https://img.shields.io/badge/Premiere Pro-0C1116?logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
   </p>
 
