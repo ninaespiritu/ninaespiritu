@@ -9,25 +9,29 @@
 
 
 ### Languages and Tools
-
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0C1116?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/React-0C1116?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-  <img src="https://img.shields.io/badge/HTML5-0C1116?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-0C1116?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/MongoDB-0C1116?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-0C1116?logo=mysql&logoColor=00758F" alt="MySQL logo" title="MySQL" height="25" />
-  <img src="https://img.shields.io/badge/Node.js-0C1116?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-   <br>
-  <img src="https://img.shields.io/badge/Express-0C1116?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
-  <img src="https://img.shields.io/badge/git-0C1116?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-  <img src="https://img.shields.io/badge/NPM-0C1116?logo=npm&logoColor=F7DF1E" alt="NPM logo" title="NPM" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-0C1116?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-  <img src="https://img.shields.io/badge/Photoshop-0C1116?logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop logo" title="Photoshop" height="25" />
-  <img src="https://img.shields.io/badge/Illustrator-0C1116?logo=adobeillustrator&logoColor=FE9B00" alt="Illustrator logo" title="Illustrator" height="25" />
-  <img src="https://img.shields.io/badge/Premiere Pro-0C1116?logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
-  <img src="https://img.shields.io/badge/Premiere Pro-0C1116?logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
-  </p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify logo" title="Netlify" height="25" />
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js logo" title="Express.js" height="25" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white2" alt="git logo" title="git" height="25" />
+
+  <br />
+   
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop logo" title="Photoshop" height="25" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
+</p>
+
 
 <p align=center>
   <div align=center>
