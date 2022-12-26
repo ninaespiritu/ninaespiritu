@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Nina
 
 - 💞️ I’m interested in **Software Development** and **UX/UI Design**
-- 👀 My most recent project: [Coffee Is Life: a full-stack MERN application](https://coffeeislife.netlify.app/ "Coffee Is Life")
+- 👀 My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
 - 🎓 I'm a graduate of Code Nation's Master: Coding Bootcamp
-- 🌱 I’m currently learning Python
-- ☕ I’m a coffee lover
+- 🌱 I’m currently learning React & Python
+- ☕ I’m a hot chocolate lover
 - 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 
 
