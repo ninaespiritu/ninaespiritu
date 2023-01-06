@@ -3,7 +3,7 @@
 - 💞️ I’m interested in **Software Development** and **UX/UI Design**
 - 👀 My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
 - 🎓 I'm a graduate of Code Nation's Master: Coding Bootcamp
-- 🌱 I’m currently improving my skills in Front-End Development
+- 🌱 I’m currently improving my skills in JavaScript and React.js
 - ☕ I’m a hot chocolate lover
 - 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 
