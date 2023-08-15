@@ -1,12 +1,14 @@
 ## Hi there 👋 I'm Nina
 
+- 🎓 I'm a coding bootcamp graduate, now working as a Junior Software Engineer
+- - ☕ I’m a hot chocolate lover
 - 💞️ I’m interested in **Software Development** and **UX/UI Design**
 - 👀 My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
-- 🎓 I'm a graduate of Code Nation's Master: Coding Bootcamp
-- 🌱 I’m currently improving my skills in JavaScript and React.js
-- ☕ I’m a hot chocolate lover
-- 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 
+<!--
+- 🌱 I’m currently improving my skills in JavaScript and React.js
+- 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
+-->
 
 ### Languages and Tools
 <p>
@@ -32,7 +34,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
 </p>
 
-
+<!--
 <p align=center>
   <div align=center>
     <a href="https://github.com/ninaespiritu/github-readme-streak-stats" title="Go to Source">
@@ -43,6 +45,7 @@
     </a>
   </div>
 </p>
+-->
 
 <!--
 **ninaespiritu/ninaespiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
