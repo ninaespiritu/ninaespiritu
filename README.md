@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Nina
 
 - 🎓 I'm a coding bootcamp graduate, now working as a Junior Software Engineer
-- ☕ I’m a hot chocolate lover
 - 💞️ I’m interested in **Software Development** and **UX/UI Design**
+- ☕ I’m a hot chocolate lover
 - 🌱 My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
 
 <!--
