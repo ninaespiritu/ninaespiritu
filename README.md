@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
 </p>
 
+<!--
 <p align=center>
   <div align=center>
     <a href="https://github.com/ninaespiritu/github-readme-streak-stats" title="Go to Source">
@@ -44,6 +45,7 @@
     </a>
   </div>
 </p>
+-->
 
 <!--
 **ninaespiritu/ninaespiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
