@@ -2,11 +2,11 @@
 
 - 🎓 I'm a coding bootcamp graduate, now working as a Junior Software Engineer
 - 💞️ I’m interested in **Software Development** and **UX/UI Design**
+- 🌱 I’m currently improving my skills in **React.js** and learning about **AWS**
 - ☕ I’m a hot chocolate lover
-- 🌱 My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
+- ⭐ My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
 
 <!--
-- 🌱 I’m currently improving my skills in JavaScript and React.js
 - 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 -->
 
