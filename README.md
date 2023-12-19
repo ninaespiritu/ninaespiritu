@@ -3,13 +3,14 @@
 - 🎓 I'm a coding bootcamp graduate, now working as a Junior Software Engineer
 - 💞️ I’m interested in **Software Development** and **UX/UI Design**
 - 🌱 I’m currently improving my skills in **React.js** and learning about **AWS**
-- ☕ I’m a hot chocolate lover
 - ⭐ My most recent project: [Catjack: a cat-themed Blackjack game](https://catjack.netlify.app/ "Catjack")
 
 <!--
+- ☕ I’m a hot chocolate lover
 - 📫 How to reach me: ninaangela.espiritu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nina-espiritu/ "Nina Espiritu on LinkedIn")
 -->
 
+<!--
 ### Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
@@ -33,6 +34,8 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop logo" title="Photoshop" height="25" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro logo" title="Premiere Pro" height="25" />
 </p>
+-->
+
 
 <!--
 <p align=center>
@@ -46,6 +49,7 @@
   </div>
 </p>
 -->
+
 
 <!--
 **ninaespiritu/ninaespiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
